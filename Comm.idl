@@ -1,0 +1,8 @@
+// Comm.idl
+// To generate, run:
+//    omniidl -bpython Comm.idl
+module Comm {
+	interface Echo {
+		string echoString(in string msg);
+	};
+};
