@@ -4,4 +4,7 @@ Simple hello world echo server/client written in Python and using omniORBpy.  Th
 
 You can install omniORBpy and other dependencies on Ubuntu using:
 
-```sudo apt-get install omni*
+```bash
+sudo apt-get install omni*
+```
+
