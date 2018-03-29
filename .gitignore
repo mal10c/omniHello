@@ -2,3 +2,8 @@ Comm/*
 Comm__POA/*
 Comm_idl.py
 Comm_idl.pyc
+cpp-code/client
+cpp-code/*.o
+cpp-code/*.cc
+cpp-code/*.hh
+cpp-code/server
